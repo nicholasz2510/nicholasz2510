@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Nick! 👋
+
+### Welcome to my GitHub profile!
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nicholasz2510&theme=algolia&show_icons=true&count_private=true)
 
