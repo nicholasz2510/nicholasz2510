@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on my [website](https://nicholasz2510.github.io/)
+- 🔭 I’m currently working on setting up the [Skyline Coding Club](https://github.com/skylinecc) for the new school year!
 - 🌱 I’m currently a junior at Skyline High School
 - 👯 I’m looking to collaborate with Skyline students to work on Skyline Coding Club projects
 - 🤔 I’m looking for help with learning new development materials like Android and more complex web development
