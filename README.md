@@ -2,10 +2,10 @@
 
 ### Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on setting up the [Skyline Coding Club](https://github.com/skylinecc) for the new school year!
+- 🔭 I’m currently working on learning functional programming in Scala!
 - 🌱 I’m currently a junior at Skyline High School
 - 👯 I’m looking to collaborate with Skyline students to work on Skyline Coding Club projects
-- 🤔 I’m looking for help with learning new development materials like Android and more complex web development
+- 🤔 I’m looking for help with learning new development materials like Scala and more complex web development (e.g. Angular)
 - 💬 Ask me about the music I listen to!
 - 📫 How to reach me: Email me at <nicholasz2510@gmail.com>
 - 😄 Pronouns: he/him
