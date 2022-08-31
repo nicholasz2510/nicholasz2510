@@ -2,14 +2,15 @@
 
 ### Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on learning functional programming in Scala!
-- 🌱 I’m currently a junior at Skyline High School
+- 🔭 I’m currently working on college applications!
+- 🌱 I’m currently a senior at Skyline High School
+- 💻 I just completed a summer internship with Lucid Software!
 - 👯 I’m looking to collaborate with Skyline students to work on Skyline Coding Club projects
-- 🤔 I’m looking for help with learning new development materials like Scala and more complex web development (e.g. Angular)
+- 🤔 I’m looking for help with learning new development materials
 - 💬 Ask me about the music I listen to!
 - 📫 How to reach me: Email me at <nicholasz2510@gmail.com>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I post woodwind covers of music on my [YouTube channel](https://www.youtube.com/channel/UCmmVlnCS8QrydJTir58s3PQ)!
+- ⚡ Fun fact: I post woodwind covers of music on my [YouTube channel](https://www.youtube.com/nicholasz2510)!
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nicholasz2510&theme=algolia&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasz2510&layout=compact&theme=algolia)
