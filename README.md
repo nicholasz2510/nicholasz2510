@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on college applications!
 - 🌱 I’m currently a senior at Skyline High School
-- 💻 I just completed a summer internship with Lucid Software!
+- 💻 I just completed a summer internship with Lucid Software, and I will return for Summer '23!
 - 👯 I’m looking to collaborate with Skyline students to work on Skyline Coding Club projects
-- 🤔 I’m looking for help with learning new development materials
+- 🤔 I’m looking for help with learning new development materials such as Godot Engine
 - 💬 Ask me about the music I listen to!
 - 📫 How to reach me: Email me at <nicholasz2510@gmail.com>
 - 😄 Pronouns: he/him
