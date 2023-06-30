@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-- 🔭 In Fall 2023, I will be studying Computer science in the Allen School @ the University of Washington; Go Huskies!! 
+- 🔭 In Fall 2023, I will be studying Computer Science in the Allen School @ the University of Washington; Go Huskies!! 
 - 🌱 I’m currently a senior at Skyline High School
 - 💻 I just completed a summer internship with Lucid Software, and I will return for Summer '23!
 - 👯 I’m looking to collaborate with Skyline students to work on Skyline Coding Club projects
