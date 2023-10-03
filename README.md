@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-- 🔭 In Fall 2023, I will be studying Computer Science in the Allen School @ the University of Washington; Go Huskies!! 
+- 🔭 I'm studying Computer Science in the Allen School @ the University of Washington; Go Huskies!! 
 - 🌱 I just graduated from Skyline High School
 - 💻 I just completed a summer internship with Lucid Software!
 - 👯 I’m looking to connect with fellow UW students
