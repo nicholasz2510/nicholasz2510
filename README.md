@@ -3,11 +3,11 @@
 ### Welcome to my GitHub profile!
 
 - 🔭 I'm studying Computer Science in the Allen School @ the University of Washington; Go Huskies!! 
-- 🌱 I just graduated from Skyline High School
-- 💻 I just completed a summer internship with Lucid Software!
+- 🌱 I grew up in Salt Lake City, Utah
+- 💻 I've completed summer internships with Lucid Software!
 - 👯 I’m looking to connect with fellow UW students
-- 🤔 I’m looking for help with learning new development materials such as Godot Engine
-- 💬 Ask me about the music I listen to!
+- 🤔 I’m looking for help with learning about AI and Deep Learning
+- 💬 Ask me about the music I make and listen to!
 - 📫 How to reach me: Email me at <nicholasz2510@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I post woodwind covers of music on my [YouTube channel](https://www.youtube.com/nicholasz2510)!
